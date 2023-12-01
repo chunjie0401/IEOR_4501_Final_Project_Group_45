@@ -1,5 +1,3 @@
-# IEOR_4501_Final_Project_Group_45
-
 Group Name: Project Group 45
 
 Group Member: UNIs: [cg3342, jf3628]
