@@ -1,0 +1,14 @@
+# ignore all files with a specific name,
+rent_for_top_10_zipcodes_by_trees.sql
+
+top_10_zipcode_with_most_greenery.sql
+
+number_of_trees_and_number_of_complaints_per_zipcode_with_top_five_rent_and_bottom_five_rent.sql
+
+schema.sql
+
+trees_around_the_campus.sql
+
+number_of_311_complaints_per_zip_code.sql
+
+top_10_zipcodes_by_trees.sql
